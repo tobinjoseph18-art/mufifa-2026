@@ -2,7 +2,7 @@
 
 Tobin Joseph (Student / Developer)
 
-Squad Domain: Coder | FIFA Nation: India/Brazil
+Squad Domain: Coder | FIFA Nation: Brazil
 
 
 ---
