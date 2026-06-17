@@ -133,3 +133,7 @@ Learn full-stack development and contribute to open source.
 Long-term:
 
 Become a software engineer and work on impactful tech projects. µFIFA will help me build real-world experience and a strong portfolio.
+
+## µLearn Profile Card
+
+<img src="https://mulearn.org/embed/rank/tobinjoseph@mulearn" width="400px" />
