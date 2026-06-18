@@ -43,7 +43,7 @@ Argentina winning the 2022 World Cup final was the most memorable moment.
 
 Winner: Brazil
 
-Dark Horse: Portugal
+Dark Horse: Spain
 
 Player to define tournament: Kylian Mbappé
 
